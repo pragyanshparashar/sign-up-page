@@ -1,0 +1,72 @@
+body{
+    background-color: aqua;
+    background-image: url(284379.jpg);
+    background-size: cover;
+}
+.div1{
+    height: 500px;
+    width: 100%;
+}
+
+.div{
+    margin-left: 62%;
+    margin-top: 10%;
+}
+
+.container {
+    margin-left: 15%;
+    margin-top:-20%;
+  }
+
+  .tweet{
+    font-size:40px;
+    color: aliceblue;
+  }
+  .hub{
+    font-size:30px;
+    margin-left: -10%;
+    color: whitesmoke;
+  }
+
+  .custom{
+    height:25px;
+    border-radius: 5px;
+    margin-top: 2px;
+    border-color: white;
+  }
+ .btn1{
+    width: 23.2%;
+    border-radius: 5px;
+    margin-top: 2px;
+    height: 28px;
+    background-color: rgb(225, 51, 51);
+  
+ }
+ .btn2{
+    width:47%;
+    border-radius: 5px;
+    margin-top: 4px;
+    height: 28px;
+    background-color:  rgb(225, 51, 51);
+    ;
+ }
+
+.copy{
+    
+        text-align: center;
+        color: white;
+         font-size: large;
+    }
+
+    h1{
+        color: white
+    }
+     
+       
+
+
+  
+
+  
+
+
